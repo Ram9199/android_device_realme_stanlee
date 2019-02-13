@@ -20,8 +20,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := RMX1801
-PRODUCT_NAME := omni_RMX1801
-PRODUCT_BRAND := oppo
+PRODUCT_DEVICE := stanlee
+PRODUCT_NAME := omni_stanlee
+PRODUCT_BRAND := realme
 PRODUCT_MODEL := Realme 2 Pro
 PRODUCT_MANUFACTURER := Oppo
